@@ -1,3 +1,4 @@
+#Specs
 
 The paveljo CocoaPods Private Specs
 
